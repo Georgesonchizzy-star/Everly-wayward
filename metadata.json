@@ -1,0 +1,6 @@
+{
+  "name": "Everly Wayward",
+  "description": "A premium fashion brand website with curated clothing collections for men, women, and children, featuring an elegant catalog, secure shopping cart, and a streamlined, secure checkout process.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
